@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:riverpood_practic/services/home.dart';
+import 'package:riverpood_practic/screen/home.dart';
 
 void main() {
   runApp(const MyApp());
